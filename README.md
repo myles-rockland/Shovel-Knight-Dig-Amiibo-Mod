@@ -10,8 +10,8 @@ A plugin/mod for Shovel Knight Dig that allows you to summon Amiibo fairies!
    - "AmiiboPlugin.dll" is found in "./bin/Debug/netstandard2.1/"
 6. Run the game and enjoy! 
 
-When you have completed the steps above, your Shovel Knight Dig folder should look like the image below.
-![Screenshot of the Shovel Knight Dig install folder layout once the steps above are completed.](./skdIntallFolder.png)
+When you have completed the steps above, your Shovel Knight Dig folder should look like the image below:
+![Screenshot of the Shovel Knight Dig install folder layout once the steps above are completed.](./skdInstallFolder.png)
 
 # How it works
 Madam Meeber spawns at the left-most side of the camp. When you talk to her, a fairy will spawn based on the buttons you are holding:
