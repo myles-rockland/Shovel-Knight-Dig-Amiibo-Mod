@@ -7,7 +7,7 @@ A plugin/mod for Shovel Knight Dig that allows you to summon Amiibo fairies!
 3. Copy all contents of the folder ("BepInEx" folder, "changelog.txt", "winhttp.dll", "doorstop_config.ini") into the Shovel Knight Dig game folder
 4. Run Shovel Knight Dig, then quit using the in-game menu
 5. Copy the "AmiiboPlugin.dll" file into "<game install folder>/BepInEx/plugins/"
- - "AmiiboPlugin.dll" is found in "./AmiiboPlugin/AmiiboPlugin/bin/Debug/netstandard2.1/"
+   - "AmiiboPlugin.dll" is found in "./AmiiboPlugin/AmiiboPlugin/bin/Debug/netstandard2.1/"
 6. Run the game and enjoy! 
 
 When you have completed the steps above, your Shovel Knight Dig folder should look like the image below.
