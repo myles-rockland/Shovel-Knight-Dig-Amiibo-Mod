@@ -1,0 +1,16 @@
+C:\Users\Myles\Documents\programs\skd\AmiiboPlugin\AmiiboPlugin\bin\Debug\netstandard2.1\AmiiboPlugin.deps.json
+C:\Users\Myles\Documents\programs\skd\AmiiboPlugin\AmiiboPlugin\bin\Debug\netstandard2.1\AmiiboPlugin.dll
+C:\Users\Myles\Documents\programs\skd\AmiiboPlugin\AmiiboPlugin\bin\Debug\netstandard2.1\AmiiboPlugin.pdb
+C:\Users\Myles\Documents\programs\skd\AmiiboPlugin\AmiiboPlugin\bin\Debug\netstandard2.1\Assembly-CSharp.dll
+C:\Users\Myles\Documents\programs\skd\AmiiboPlugin\AmiiboPlugin\bin\Debug\netstandard2.1\Unity.TextMeshPro.dll
+C:\Users\Myles\Documents\programs\skd\AmiiboPlugin\AmiiboPlugin\bin\Debug\netstandard2.1\UnityEngine.UI.dll
+C:\Users\Myles\Documents\programs\skd\AmiiboPlugin\AmiiboPlugin\obj\Debug\netstandard2.1\AmiiboPlugin.csproj.AssemblyReference.cache
+C:\Users\Myles\Documents\programs\skd\AmiiboPlugin\AmiiboPlugin\obj\Debug\netstandard2.1\PluginInfo.cs
+C:\Users\Myles\Documents\programs\skd\AmiiboPlugin\AmiiboPlugin\obj\Debug\netstandard2.1\AmiiboPlugin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Myles\Documents\programs\skd\AmiiboPlugin\AmiiboPlugin\obj\Debug\netstandard2.1\AmiiboPlugin.AssemblyInfoInputs.cache
+C:\Users\Myles\Documents\programs\skd\AmiiboPlugin\AmiiboPlugin\obj\Debug\netstandard2.1\AmiiboPlugin.AssemblyInfo.cs
+C:\Users\Myles\Documents\programs\skd\AmiiboPlugin\AmiiboPlugin\obj\Debug\netstandard2.1\AmiiboPlugin.csproj.CoreCompileInputs.cache
+C:\Users\Myles\Documents\programs\skd\AmiiboPlugin\AmiiboPlugin\obj\Debug\netstandard2.1\AmiiboPlugin.csproj.CopyComplete
+C:\Users\Myles\Documents\programs\skd\AmiiboPlugin\AmiiboPlugin\obj\Debug\netstandard2.1\AmiiboPlugin.dll
+C:\Users\Myles\Documents\programs\skd\AmiiboPlugin\AmiiboPlugin\obj\Debug\netstandard2.1\AmiiboPlugin.pdb
+C:\Users\Myles\Documents\programs\skd\AmiiboPlugin\AmiiboPlugin\bin\Debug\netstandard2.1\Rewired_Core.dll
