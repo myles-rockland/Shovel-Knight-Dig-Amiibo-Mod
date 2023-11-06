@@ -26,3 +26,4 @@ You can only have 1 fairy equipped since that is the maximum allowed inside the 
 # Known issues
 - Can't progress past title screen sometimes
 - Limited functionality on keyboard
+- Doesn't work with current version of game
